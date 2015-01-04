@@ -2,4 +2,4 @@ CEKT
 ====
 
 CEKT Grasl
-Communications Engineering Kompetenz Training
+Communications Engineering Kompetenztraining
