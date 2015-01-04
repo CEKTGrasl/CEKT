@@ -4,4 +4,4 @@ CEKT
 CEKT Grasl
 Communications Engineering Kompetenztraining
 
-I love :coffee, :pizza and :dancer
+I love :coffee:, :pizza: and :dancer:
